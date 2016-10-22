@@ -1,0 +1,3 @@
+[submodule "oct16hack/haufe_bot"]
+	path = oct16hack/haufe_bot
+	url = https://github.com/georgeganea/haufe_bot
